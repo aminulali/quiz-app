@@ -1,4 +1,4 @@
 # quiz-app
 Quiz App Project
 
-Open: src folder then components folder.
+Open: 'src' folder then 'components' folder.
